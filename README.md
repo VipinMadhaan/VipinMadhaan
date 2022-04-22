@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Nodejs Streaming App](https://github.com/iMadhaan/nodejs-streaming-project)
 
-- 🌱 I’m currently learning **AWS, Golang**
+- 🌱 I’m currently learning **Blockchain**
 
 - 👯 I’m looking to collaborate on [Nodejs Streaming App](https://github.com/iMadhaan/nodejs-streaming-project)
 
@@ -17,11 +17,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/iMadhaan/](https://github.com/iMadhaan/)
 
-- 📝 I regularly write articles on [https://www.imadhaan.com](https://www.imadhaan.com)
+- 📝 I regularly write articles on [https://blog.imadhaan.com](https://blog.imadhaan.com)
 
 - 💬 Ask me about **Nodejs, ReactJS**
 
-- 📫 How to reach me **vipin.madhaan@gmail.com**
+- 📫 How to reach me **Vipin.Kumar.Madhaan@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
