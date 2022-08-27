@@ -25,8 +25,8 @@
 <a href="https://medium.com/@vipinmadhaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vipinmadhaan" height="30" width="40" /></a>
 </p>
 
-<table>
-<tr>
+<table width="100%">
+<tr width="100%">
 <td valign="top" width="50%">
 <h3 >Frontend</h3>
 <p>
@@ -50,7 +50,7 @@
 </p>
 </td>
 </tr>
-<tr>
+<tr width="100%">
 <td valign="top" width="50%">
 <h3 align="left">Database</h3>
 <p align="left">
