@@ -9,10 +9,6 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 👯 I’m looking to collaborate on [Nodejs Streaming App](https://github.com/VipinMadhaan/nodejs-streaming-project)
-
-- 🤝 I’m looking for help with [Nodejs Streaming App](https://github.com/VipinMadhaan/nodejs-streaming-project)
-
 - 👨‍💻 All of my projects are available at [https://github.com/VipinMadhaan/](https://github.com/VipinMadhaan/)
 
 - 📝 I regularly write articles on [https://blog.imadhaan.com/](https://blog.imadhaan.com/)
