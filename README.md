@@ -78,18 +78,6 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<table>
-  <tr>
-    <td>
-      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipinmadhaan&show_icons=true&locale=en&layout=compact" alt="vipinmadhaan" /></p>
-    </td>
-    <td>
-     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vipinmadhaan&show_icons=true&locale=en" alt="vipinmadhaan" /></p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan=2 align="center">
-     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vipinmadhaan&" alt="vipinmadhaan" /></p>
-    </td>
-  </tr>
-</table>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipinmadhaan&show_icons=true&locale=en&layout=compact" alt="vipinmadhaan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vipinmadhaan&show_icons=true&locale=en" alt="vipinmadhaan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vipinmadhaan&" alt="vipinmadhaan" /></p>
