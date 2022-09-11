@@ -25,6 +25,8 @@
 <a href="https://medium.com/@vipinmadhaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vipinmadhaan" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Technology:</h3>
+<div align="left">
 <table width="100%">
 <tr width="100%">
 <td valign="top" width="50%">
@@ -75,6 +77,7 @@
 </td>
 </tr>
 </table>
+</div>
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
