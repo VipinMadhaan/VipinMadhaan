@@ -85,7 +85,6 @@
 - [How to replace your PhpStorm with VSCode](https://www.imadhaan.com/2020/04/how-to-replace-your-phpstorm-with-vscode.html)
 <!-- BLOG-POST-LIST:END -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipinmadhaan&show_icons=true&locale=en&layout=compact" alt="vipinmadhaan" /></p>
-</br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vipinmadhaan&show_icons=true&locale=en" alt="vipinmadhaan" /></p>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipinmadhaan&show_icons=true&locale=en&layout=compact" alt="vipinmadhaan" /></div>
+<p>&nbsp;>&nbsp;>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vipinmadhaan&show_icons=true&locale=en" alt="vipinmadhaan" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vipinmadhaan&" alt="vipinmadhaan" /></p>
