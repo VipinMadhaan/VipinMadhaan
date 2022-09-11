@@ -26,7 +26,7 @@
 <a href="https://hashnode.com/@vipinmadhaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@vipinmadhaan" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Technology:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <div align="left">
 <table width="100%">
 <tr width="100%">
