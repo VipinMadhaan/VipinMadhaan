@@ -81,7 +81,7 @@
 <a href="https://hashnode.com/@vipinmadhaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@vipinmadhaan" height="30" width="40" /></a>
 </p>
 
-### Latest Blog Posts
+### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [How to send GET and POST Ajax request in Vanilla JavaScript](https://dev.to/vipinmadhaan/how-to-send-get-and-post-ajax-request-in-vanilla-javascript-4g8j)
 - [ES6 Standard JavaScript Arrow Function](https://www.imadhaan.com/2020/05/es6-standard-arrow-function-arrow.html)
