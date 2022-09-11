@@ -78,6 +78,11 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to send GET and POST Ajax request in Vanilla JavaScript](https://dev.to/vipinmadhaan/how-to-send-get-and-post-ajax-request-in-vanilla-javascript-4g8j)
+- [ES6 Standard JavaScript Arrow Function](https://www.imadhaan.com/2020/05/es6-standard-arrow-function-arrow.html)
+- [How to write JavaScript Ajax API request](https://www.imadhaan.com/2020/05/how-to-write-javascript-ajax-api-request.html)
+- [JS array push, unshift, pop, shift method implementation](https://www.imadhaan.com/2020/05/js-array-push-unshift-pop-shift-method.html)
+- [How to replace your PhpStorm with VSCode](https://www.imadhaan.com/2020/04/how-to-replace-your-phpstorm-with-vscode.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipinmadhaan&show_icons=true&locale=en&layout=compact" alt="vipinmadhaan" /></p>
