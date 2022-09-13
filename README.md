@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Nodejs Streaming App](https://github.com/VipinMadhaan/nodejs-streaming-project)
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **Blockchain, Go Lang**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VipinMadhaan/](https://github.com/VipinMadhaan/)
 
