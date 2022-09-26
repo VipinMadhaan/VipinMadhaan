@@ -84,7 +84,7 @@
 ### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [ES6 Standard JavaScript Arrow Function](https://www.imadhaan.com/2020/05/es6-standard-arrow-function-arrow.html)
-- [How to send GET and POST Ajax API request in JavaScript](https://www.imadhaan.com/2020/05/how-to-write-javascript-ajax-api-request.html)
+- [How to send GET and POST Ajax API requests in Vanilla JavaScript](https://www.imadhaan.com/2020/05/how-to-write-javascript-ajax-api-request.html)
 - [JS array push, unshift, pop, shift method implementation](https://www.imadhaan.com/2020/05/js-array-push-unshift-pop-shift-method.html)
 - [How to replace your PhpStorm with VSCode](https://www.imadhaan.com/2020/04/how-to-replace-your-phpstorm-with-vscode.html)
 <!-- BLOG-POST-LIST:END -->
