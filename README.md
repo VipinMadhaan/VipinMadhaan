@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/VipinMadhaan/](https://github.com/VipinMadhaan/)
 
-- 📝 I regularly write articles on [https://www.imadhaan.com/](https://blog.imadhaan.com/)
+- 📝 I regularly write articles on [https://ivipin.com/](https://blog.ivipin.com/)
 
 - 💬 Ask me about **Nodejs, ReactJS**
 
