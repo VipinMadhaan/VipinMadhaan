@@ -15,4 +15,4 @@ jobs:
         with:
           max_post_count: "5"
           remove_duplicates: true
-          feed_list: "https://www.imadhaan.com/feeds/posts/default"
+          feed_list: "https://ivipin.com/index.xml"
