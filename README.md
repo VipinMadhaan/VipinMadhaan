@@ -71,7 +71,8 @@
 </tr>
 </table>
 </div>
-</br>
+
+<h3></h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vipinmadhaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vipinmadhaan" height="30" width="40" /></a>
@@ -80,13 +81,15 @@
 <a href="https://dev.to/vipinmadhaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vipinmadhaan" height="30" width="40" /></a>
 <a href="https://hashnode.com/@vipinmadhaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@vipinmadhaan" height="30" width="40" /></a>
 </p>
-</br>
+<h3></h3>
+
 ### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [How to use JavaScript array push, unshift, pop, and shift methods](https://ivipin.com/how-to-use-javascript-array-push-unshift-pop-and-shift-method/)
 - [How to send GET and POST Ajax API requests in Vanilla JavaScript](https://ivipin.com/how-to-send-get-and-post-ajax-api-requests-in-vanilla-javascript/)
 <!-- BLOG-POST-LIST:END -->
-</br>
+
+<h3></h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vipinmadhaan&show_icons=true&locale=en" alt="vipinmadhaan" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vipinmadhaan&" alt="vipinmadhaan" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipinmadhaan&show_icons=true&locale=en&layout=compact" alt="vipinmadhaan" /></p>
