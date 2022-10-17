@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Nodejs, ReactJS**
 
-- 📫 How to reach me **Vipin.Madhaan@gmail.com**
+- 📫 Reach me at **Vipin.Madhaan@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
