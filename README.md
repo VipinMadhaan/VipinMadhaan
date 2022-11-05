@@ -1,10 +1,5 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="height: 50%; width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Vipin, a full-time full-stack developer 👨‍💻 from India 🚀</div>  
-  
+<h1 align="center">Hi 👋, I'm Vipin Kumar M</h1>
+<h3 align="center">A passionate full-stack developer 👨‍💻 from India 🚀</h3> 
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
   
