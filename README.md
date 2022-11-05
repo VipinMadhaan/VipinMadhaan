@@ -83,9 +83,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vipinmadhaan&" alt="vipinmadhaan" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipinmadhaan&show_icons=true&locale=en&layout=compact" alt="vipinmadhaan" /></p>
 </div>  
-<br/>  
+<br/>
+<div align="center">
 <br/> 
-
+</div>  
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [How to use JavaScript array push, unshift, pop, and shift methods](https://ivipin.com/how-to-use-javascript-array-push-unshift-pop-and-shift-method/)
