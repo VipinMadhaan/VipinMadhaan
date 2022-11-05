@@ -1,28 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vipin Kumar M</h1>
 <h3 align="center">A passionate full-stack developer 👨‍💻 from India 🚀</h3> 
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
+- 🔭 I’m currently working on [Nodejs Streaming App](https://github.com/VipinMadhaan/nodejs-streaming-project)  
+- 🌱 I’m currently learning  **Blockchain, Go Lang**
 - ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
 - 📝 I regularly write articles on [blog.ivipin.com](https://blog.ivipin.com/)  
-  
-
 - ⚡ Fun fact: I use tabs over spaces  
-  
-
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -35,10 +22,7 @@
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
 </div>
-
 </td><td valign="top" width="33%">
-
-
 
 ### Backend  
 <div align="center">  
@@ -51,10 +35,7 @@
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
 </div>
-
 </td><td valign="top" width="33%">
-
-
 
 ### DevOps  
 <div align="center">  
@@ -67,11 +48,8 @@
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 </div>
-
 </td></tr></table>  
-
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
@@ -97,43 +75,28 @@
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
 <br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=VipinMadhaan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 <br/>  
 
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
+## Recent Blog Posts    
+<!-- BLOG-POST-LIST:START -->
+- [How to use JavaScript array push, unshift, pop, and shift methods](https://ivipin.com/how-to-use-javascript-array-push-unshift-pop-and-shift-method/)
+- [How to send GET and POST Ajax API requests in Vanilla JavaScript](https://ivipin.com/how-to-send-get-and-post-ajax-api-requests-in-vanilla-javascript/)
+<!-- BLOG-POST-LIST:END -->
 <br/>  
-
-  
-
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=VipinMadhaan&&style=flat-square" align="center" />
 </div>  
-  
-
 <br/>  
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/VipinMadhaan" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
+<a href="https://www.buymeacoffee.com/VipinMadhaan" target="_blank" style="display: inline-block;">
+<img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee"  align="center" />
+</a>
+</div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
