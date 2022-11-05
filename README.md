@@ -78,7 +78,9 @@
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=VipinMadhaan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=VipinMadhaan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vipinmadhaan&" alt="vipinmadhaan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipinmadhaan&show_icons=true&locale=en&layout=compact" alt="vipinmadhaan" /></p>
 <br/>  
 
 ## Recent Blog Posts    
