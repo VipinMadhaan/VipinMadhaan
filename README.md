@@ -9,7 +9,7 @@
 <br/>  
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%" style="border:none;">
+<table><tr><td valign="top" width="33%" style="border:none !important;">
 
 ### Frontend  
 <div align="center">  
