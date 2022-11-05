@@ -86,11 +86,13 @@
 <br/>  
 <br/> 
 
-## Recent Blog Posts    
+## Recent Blog Posts
+<div align="center">
 <!-- BLOG-POST-LIST:START -->
 - [How to use JavaScript array push, unshift, pop, and shift methods](https://ivipin.com/how-to-use-javascript-array-push-unshift-pop-and-shift-method/)
 - [How to send GET and POST Ajax API requests in Vanilla JavaScript](https://ivipin.com/how-to-send-get-and-post-ajax-api-requests-in-vanilla-javascript/)
 <!-- BLOG-POST-LIST:END -->
+</div>
 <br/>  
 <br/>  
 
