@@ -78,21 +78,17 @@
 <br/>  
 
 ## Github Stats  
-<div align="center">
 <p><img src="https://github-readme-stats.vercel.app/api?username=VipinMadhaan&show_icons=true&count_private=true&hide_border=true" align="center" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vipinmadhaan&" alt="vipinmadhaan" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipinmadhaan&show_icons=true&locale=en&layout=compact" alt="vipinmadhaan" /></p>
-</div>
 <br/>  
 <br/> 
 
 ## Recent Blog Posts
-<div align="center">
 <!-- BLOG-POST-LIST:START -->
 - [How to use JavaScript array push, unshift, pop, and shift methods](https://ivipin.com/how-to-use-javascript-array-push-unshift-pop-and-shift-method/)
 - [How to send GET and POST Ajax API requests in Vanilla JavaScript](https://ivipin.com/how-to-send-get-and-post-ajax-api-requests-in-vanilla-javascript/)
 <!-- BLOG-POST-LIST:END -->
-</div>
 <br/>  
 <br/>  
 
