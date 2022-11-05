@@ -84,15 +84,15 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipinmadhaan&show_icons=true&locale=en&layout=compact" alt="vipinmadhaan" /></p>
 </div>  
 <br/>
-<h3></h3>
-## Recent Blog Posts
+
+## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [How to use JavaScript array push, unshift, pop, and shift methods](https://ivipin.com/how-to-use-javascript-array-push-unshift-pop-and-shift-method/)
 - [How to send GET and POST Ajax API requests in Vanilla JavaScript](https://ivipin.com/how-to-send-get-and-post-ajax-api-requests-in-vanilla-javascript/)
 <!-- BLOG-POST-LIST:END -->
-<br/>  
-<br/>  
 
+<br/>  
+<br/>  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=VipinMadhaan&&style=flat-square" align="center" />
 </div>  
