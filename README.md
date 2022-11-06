@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vipin Kumar M</h1>
+<h1 align="center">Hi 👋, I'm Vipin Kumar Madhaan</h1>
 <h3 align="center">A passionate full-stack developer 👨‍💻 from India 🚀</h3> 
 
 - 🔭 I’m currently working on [Nodejs Streaming App](https://github.com/VipinMadhaan/nodejs-streaming-project)  
