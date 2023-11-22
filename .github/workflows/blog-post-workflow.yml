@@ -4,14 +4,15 @@ on:
     # Runs every day
     - cron: '0 0 * * *'
   workflow_dispatch:
-
+permissions:
+  contents: write # To write the generated contents to the readme
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@1.7.8
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: "5"
           remove_duplicates: true
