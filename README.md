@@ -3,7 +3,7 @@
 <br/> 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%" style="border:none !important;">
+<table><tr><td valign="top" style="border:none !important;">
 
 ### Frontend  
 <div align="center">  
@@ -16,7 +16,7 @@
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
 </div>
-</td><td valign="top" width="33%" style="border:none">
+</td><td valign="top" style="border:none">
 
 ### Backend  
 <div align="center">  
@@ -29,7 +29,7 @@
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
 </div>
-</td><td valign="top" width="33%" style="border:none">
+</td><td valign="top" style="border:none">
 
 ### DevOps  
 <div align="center">  
