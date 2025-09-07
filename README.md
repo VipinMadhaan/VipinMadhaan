@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vipin Kumar Madhaan</h1>
 <h3 align="center">A passionate full-stack developer 👨‍💻 from India 🚀</h3> 
 <br/> 
-
-## My Skill Set  
  
-### Frontend  
+<h2 align="center">My Skill Set</h2> 
+<br/> 
+ 
+<h3 align="center">Frontend</h3>  
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 1rem" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 1rem" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -16,7 +17,7 @@
 <a href="https://graphql.org/" target="_blank"><img style="margin: 1rem" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
 </div>
  
-### Backend  
+<h3 align="center">Backend</h3>  
 <div align="center">  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 1rem" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 1rem" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
@@ -28,7 +29,7 @@
 <a href="https://redis.io/" target="_blank"><img style="margin: 1rem" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
 </div>
  
-### DevOps  
+<h3 align="center">DevOps</h3>  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 1rem" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 1rem" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
