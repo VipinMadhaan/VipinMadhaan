@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Vipin Kumar Madhaan</h1>
+<h1 align="center" style="border-bottom:none;">Hi 👋, I'm Vipin Kumar Madhaan</h1>
 <h3 align="center">A passionate full-stack developer 👨‍💻 from India 🚀</h3> 
 <br/> 
  
 <h2 align="center">My Skill Set</h2> 
-<br/> 
  
 <h3 align="center">Frontend</h3>  
 <div align="center">  
