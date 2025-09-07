@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vipin Kumar Madhaan</h1>
 <h3 align="center">A passionate full-stack developer 👨‍💻 from India 🚀</h3> 
-<br/>
-
-- 🔭 I’m currently working on [Nodejs Streaming App](https://github.com/VipinMadhaan/nodejs-streaming-project)  
-- 🌱 I’m currently learning  **Blockchain, Go Lang**
-- ❓ Ask me about anything related to MERN stack and related technologies  
-- 📝 I regularly write articles on [blog.ivipin.com](https://blog.ivipin.com/)  
-- ⚡ Fun fact: I use tabs over spaces  
-<br/>  
+<br/> 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%" style="border:none !important;">
