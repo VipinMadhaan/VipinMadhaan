@@ -5,6 +5,7 @@
 ## My Skill Set  
 <table><tr>
 <td valign="top" style="border:none !important;">
+ 
 ### Frontend  
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -18,6 +19,7 @@
 </div>
 </td>
 <td valign="top" style="border:none">
+ 
 ### Backend  
 <div align="center">  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
@@ -31,6 +33,7 @@
 </div>
 </td>
 <td valign="top" style="border:none">
+ 
 ### DevOps  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
